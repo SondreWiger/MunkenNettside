@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teateret Portal</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+            background: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin: 0 0 10px 0;
+        }
+        p {
+            color: #666;
+            margin: 10px 0;
+        }
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #333;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎭 Teateret Portal</h1>
+        <p>Initializing application...</p>
+        <div class="loader"></div>
+        <p style="font-size: 12px; color: #999; margin-top: 30px;">
+            If this page doesn't load, ensure the Node.js server is running on port 3000
+        </p>
+    </div>
+    <script>
+        // This is a minimal entry point. The actual app is served by server.js
+        // which runs the Next.js application on port 3000
+        console.log('[v0] Index page loaded - Next.js server should be running on port 3000');
+        
+        // Optionally redirect to the actual app after a short delay
+        // setTimeout(() => {
+        //     window.location.href = '/';
+        // }, 2000);
+    </script>
+</body>
+</html>

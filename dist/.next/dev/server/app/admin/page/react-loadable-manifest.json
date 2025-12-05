@@ -1,0 +1,10 @@
+{
+  "[project]/components/admin/clear-reservations.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/admin/clear-reservations.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_67fd38ca._.js",
+      "static/chunks/_472dc1d6._.js",
+      "static/chunks/components_admin_clear-reservations_tsx_f4bf5c20._.js"
+    ]
+  }
+}

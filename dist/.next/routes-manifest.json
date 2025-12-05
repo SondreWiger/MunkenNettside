@@ -1,0 +1,291 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [
+    {
+      "page": "/admin/ensembler/[id]",
+      "regex": "^/admin/ensembler/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/admin/ensembler/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/admin/forestillinger/[id]",
+      "regex": "^/admin/forestillinger/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPid": "nxtPid"
+      },
+      "namedRegex": "^/admin/forestillinger/(?<nxtPid>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/bekreftelse/[bookingId]",
+      "regex": "^/bekreftelse/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPbookingId": "nxtPbookingId"
+      },
+      "namedRegex": "^/bekreftelse/(?<nxtPbookingId>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/bestill/[showId]",
+      "regex": "^/bestill/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPshowId": "nxtPshowId"
+      },
+      "namedRegex": "^/bestill/(?<nxtPshowId>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/ensemble/[slug]",
+      "regex": "^/ensemble/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPslug": "nxtPslug"
+      },
+      "namedRegex": "^/ensemble/(?<nxtPslug>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/se/[recordingId]",
+      "regex": "^/se/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPrecordingId": "nxtPrecordingId"
+      },
+      "namedRegex": "^/se/(?<nxtPrecordingId>[^/]+?)(?:/)?$"
+    }
+  ],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/admin",
+      "regex": "^/admin(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin(?:/)?$"
+    },
+    {
+      "page": "/admin/bestillinger",
+      "regex": "^/admin/bestillinger(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/bestillinger(?:/)?$"
+    },
+    {
+      "page": "/admin/brukere",
+      "regex": "^/admin/brukere(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/brukere(?:/)?$"
+    },
+    {
+      "page": "/admin/ensembler",
+      "regex": "^/admin/ensembler(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/ensembler(?:/)?$"
+    },
+    {
+      "page": "/admin/ensembler/ny",
+      "regex": "^/admin/ensembler/ny(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/ensembler/ny(?:/)?$"
+    },
+    {
+      "page": "/admin/forestillinger",
+      "regex": "^/admin/forestillinger(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/forestillinger(?:/)?$"
+    },
+    {
+      "page": "/admin/forestillinger/ny",
+      "regex": "^/admin/forestillinger/ny(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/forestillinger/ny(?:/)?$"
+    },
+    {
+      "page": "/admin/innstillinger",
+      "regex": "^/admin/innstillinger(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/innstillinger(?:/)?$"
+    },
+    {
+      "page": "/admin/rabattkoder",
+      "regex": "^/admin/rabattkoder(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/rabattkoder(?:/)?$"
+    },
+    {
+      "page": "/admin/rabattkoder/ny",
+      "regex": "^/admin/rabattkoder/ny(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/rabattkoder/ny(?:/)?$"
+    },
+    {
+      "page": "/admin/scan",
+      "regex": "^/admin/scan(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/scan(?:/)?$"
+    },
+    {
+      "page": "/admin/venues",
+      "regex": "^/admin/venues(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/venues(?:/)?$"
+    },
+    {
+      "page": "/admin/venues/ny",
+      "regex": "^/admin/venues/ny(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/admin/venues/ny(?:/)?$"
+    },
+    {
+      "page": "/api/admin/check-in",
+      "regex": "^/api/admin/check\\-in(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/admin/check\\-in(?:/)?$"
+    },
+    {
+      "page": "/api/admin/verify-ticket",
+      "regex": "^/api/admin/verify\\-ticket(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/admin/verify\\-ticket(?:/)?$"
+    },
+    {
+      "page": "/api/bookings/create",
+      "regex": "^/api/bookings/create(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/bookings/create(?:/)?$"
+    },
+    {
+      "page": "/api/debug/seats",
+      "regex": "^/api/debug/seats(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/debug/seats(?:/)?$"
+    },
+    {
+      "page": "/api/purchases/create",
+      "regex": "^/api/purchases/create(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/purchases/create(?:/)?$"
+    },
+    {
+      "page": "/api/seats/cleanup",
+      "regex": "^/api/seats/cleanup(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/seats/cleanup(?:/)?$"
+    },
+    {
+      "page": "/api/seats/reserve",
+      "regex": "^/api/seats/reserve(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/seats/reserve(?:/)?$"
+    },
+    {
+      "page": "/api/video/stream",
+      "regex": "^/api/video/stream(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/video/stream(?:/)?$"
+    },
+    {
+      "page": "/billetter",
+      "regex": "^/billetter(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/billetter(?:/)?$"
+    },
+    {
+      "page": "/forestillinger",
+      "regex": "^/forestillinger(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/forestillinger(?:/)?$"
+    },
+    {
+      "page": "/kasse",
+      "regex": "^/kasse(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/kasse(?:/)?$"
+    },
+    {
+      "page": "/kasse/billett",
+      "regex": "^/kasse/billett(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/kasse/billett(?:/)?$"
+    },
+    {
+      "page": "/logg-inn",
+      "regex": "^/logg\\-inn(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/logg\\-inn(?:/)?$"
+    },
+    {
+      "page": "/min-side",
+      "regex": "^/min\\-side(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/min\\-side(?:/)?$"
+    },
+    {
+      "page": "/mine-opptak",
+      "regex": "^/mine\\-opptak(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/mine\\-opptak(?:/)?$"
+    },
+    {
+      "page": "/opptak",
+      "regex": "^/opptak(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/opptak(?:/)?$"
+    },
+    {
+      "page": "/registrer",
+      "regex": "^/registrer(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/registrer(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

@@ -1,0 +1,12 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/bookings/create/route.js")
+R.c("server/chunks/node_modules_qrcode_lib_index_ac2052b3.js")
+R.c("server/chunks/node_modules_next_6413a90b._.js")
+R.c("server/chunks/node_modules_@supabase_realtime-js_dist_module_306ac729._.js")
+R.c("server/chunks/node_modules_@supabase_storage-js_dist_module_473cf4b8._.js")
+R.c("server/chunks/node_modules_@supabase_auth-js_dist_module_d4605ced._.js")
+R.c("server/chunks/node_modules_nodemailer_f0e2e4c8._.js")
+R.c("server/chunks/node_modules_b2383b72._.js")
+R.c("server/chunks/[root-of-the-server]__abfbb400._.js")
+R.c("server/chunks/_next-internal_server_app_api_bookings_create_route_actions_a18731c5.js")
+R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/bookings/create/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/bookings/create/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

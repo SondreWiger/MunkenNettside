@@ -1,0 +1,180 @@
+[00:00:00.690] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:00.760] Server  LOG      ✓ Ready in 616ms
+[00:00:09.144] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.295] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:09.295] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:09.295] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958759297}
+[00:00:12.829] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/forestillinger color: rgb(120, 120, 120) color: inherit {"dp":"/forestillinger","o":"http://localhost:3000/forestillinger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958762828}
+[00:00:16.381] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/opptak color: rgb(120, 120, 120) color: inherit {"dp":"/opptak","o":"http://localhost:3000/opptak","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958766380}
+[00:00:17.788] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/forestillinger color: rgb(120, 120, 120) color: inherit {"dp":"/forestillinger","o":"http://localhost:3000/forestillinger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958767788}
+[00:00:27.145] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://localhost:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958777145}
+[00:01:07.488] Server  WARN     ⚠ Cross origin request detected from 172.20.10.14 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:01:07.847] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:07.847] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:01:07.847] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.20.10.14:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.20.10.14:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958817840}
+[00:01:09.348] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.20.10.14:3000/logg-inn color: rgb(120, 120, 120) color: inherit {"dp":"/logg-inn","o":"http://172.20.10.14:3000/logg-inn","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958819339}
+[00:01:24.328] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:24.328] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/min-side","route":"/min-side"}
+[00:01:24.328] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.20.10.14:3000/min-side color: rgb(120, 120, 120) color: inherit {"dp":"/min-side","o":"http://172.20.10.14:3000/min-side","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958834320}
+[00:01:26.494] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:01:26.494] Browser WARN    Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}.
+[00:01:29.718] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.20.10.14:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://172.20.10.14:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958839688}
+[00:01:32.133] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.20.10.14:3000/admin/scan color: rgb(120, 120, 120) color: inherit {"dp":"/admin/scan","o":"http://172.20.10.14:3000/admin/scan","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958842124}
+[00:01:34.975] Browser WARN    [v0] Not in secure context: http://172.20.10.14:3000/admin/scan
+[00:01:34.975] Browser ERROR   [v0] Camera enumeration error: Camera access is only supported in secure context like https or localhost.
+[00:01:34.975] Browser ERROR   [v0] Scanner error: Kunne ikke få tilgang til kamera: Camera access is only supported in secure context like https or localhost.
+[00:02:07.163] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958877163}
+[00:02:09.988] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/billetter color: rgb(120, 120, 120) color: inherit {"dp":"/billetter","o":"http://localhost:3000/billetter","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958879986}
+[00:02:24.681] Server  LOG      ✓ Compiled in 76ms
+[00:02:29.668] Server  LOG      ✓ Compiled in 26ms
+[00:02:35.952] Server  LOG      ✓ Compiled in 50ms
+[00:02:37.656] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/forestillinger color: rgb(120, 120, 120) color: inherit {"dp":"/forestillinger","o":"http://localhost:3000/forestillinger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958907656}
+[00:02:39.739] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/bestill/62c18f2b-8b4c-4f47-a184-df9a4328b19c color: rgb(120, 120, 120) color: inherit {"dp":"/bestill/[showId]","o":"http://localhost:3000/bestill/62c18f2b-8b4c-4f47-a184-df9a4328b19c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958909739}
+[00:02:43.479] Server  LOG     [v0] Reserve seats request {}
+[00:02:43.634] Server  LOG      ✓ Compiled in 31ms
+[00:02:43.634] Server  LOG     [v0] Current seat states: [{...},{...}]
+[00:02:43.635] Server  LOG     [v0] Unavailable seats check: {}
+[00:02:44.174] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/kasse/billett?show=62c18f2b-8b4c-4f47-a184-df9a4328b19c color: rgb(120, 120, 120) color: inherit {"dp":"/kasse/billett","o":"http://localhost:3000/kasse/billett?show=62c18f2b-8b4c-4f47-a184-df9a4328b19c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958914175}
+[00:02:47.507] Server  LOG     [v0] ========== BOOKING CREATE START ==========
+[00:02:47.507] Server  LOG     [v0] Booking request: {}
+[00:02:47.635] Server  LOG     [v0] Booking for user: "c3788a64-52d1-419f-b20a-2b0b8b1ddafc"
+[00:02:47.742] Server  LOG     [v0] Show found: "62c18f2b-8b4c-4f47-a184-df9a4328b19c"
+[00:02:47.860] Server  LOG     [v0] Seats fetched for booking: [{...},{...}]
+[00:02:47.860] Server  LOG     [v0] Generated booking reference: "THTR-20251205-8FAD"
+[00:02:48.020] Server  LOG     [v0] Booking created: "d8871611-c47c-4be3-93c9-18789d1abeb5" "Reference:" "THTR-20251205-8FAD" "User ID:" "c3788a64-52d1-419f-b20a-2b0b8b1ddafc"
+[00:02:48.444] Server  LOG     [v0] ========== STARTING EMAIL SEND ==========
+[00:02:48.444] Server  LOG     [v0] Calling sendTicketEmail function...
+[00:02:48.444] Server  LOG     [v0] ========== EMAIL SEND START ==========
+[00:02:48.445] Server  LOG     [v0] sendTicketEmail called with: {}
+[00:02:48.445] Server  LOG     [v0] Email configuration:
+[00:02:48.445] Server  LOG     [v0] - FROM_EMAIL: "erdnos.com@gmail.com"
+[00:02:48.445] Server  LOG     [v0] - FROM_NAME: "Muneken"
+[00:02:48.445] Server  LOG     [v0] - SMTP_SERVER: "smtp-relay.brevo.com"
+[00:02:48.445] Server  LOG     [v0] Generating QR code...
+[00:02:48.466] Server  LOG     [v0] QR code generated successfully
+[00:02:48.468] Server  LOG     [v0] Sending email via SMTP...
+[00:02:48.468] Server  LOG     [v0] - To: "sondre@northem.no"
+[00:02:48.468] Server  LOG     [v0] - From: "Muneken <erdnos.com@gmail.com>"
+[00:02:49.241] Server  LOG     [v0] Email sent successfully!
+[00:02:49.241] Server  LOG     [v0] Message ID: "<3ef012b8-e5a3-a7cd-5c7c-3370bab35a39@gmail.com>"
+[00:02:49.241] Server  LOG     [v0] Response: "250 2.0.0 OK: queued as <3ef012b8-e5a3-a7cd-5c7c-3370bab35a39@gmail.com>"
+[00:02:49.241] Server  LOG     [v0] ========== EMAIL SEND COMPLETE ==========
+[00:02:49.241] Server  LOG     [v0] sendTicketEmail returned: {}
+[00:02:49.347] Server  LOG     [v0] Email sent successfully!
+[00:02:49.347] Server  LOG     [v0] ========== BOOKING CREATE COMPLETE ==========
+[00:02:50.392] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/bekreftelse/d8871611-c47c-4be3-93c9-18789d1abeb5 color: rgb(120, 120, 120) color: inherit {"dp":"/bekreftelse/[bookingId]","o":"http://localhost:3000/bekreftelse/d8871611-c47c-4be3-93c9-18789d1abeb5","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958920389}
+[00:03:42.809] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:42.809] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/admin/scan","route":"/admin/scan"}
+[00:03:42.809] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.20.10.14:3000/admin/scan color: rgb(120, 120, 120) color: inherit {"dp":"/admin/scan","o":"http://172.20.10.14:3000/admin/scan","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764958972801}
+[00:04:57.584] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:04:57.584] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/admin/scan","route":"/admin/scan"}
+[00:04:57.584] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.20.10.14:3000/admin/scan color: rgb(120, 120, 120) color: inherit {"dp":"/admin/scan","o":"http://172.20.10.14:3000/admin/scan","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959047576}
+[00:05:56.124] Browser ERROR   [v0] Camera enumeration error: Camera access is only supported in secure context like https or localhost.
+[00:05:56.124] Browser ERROR   [v0] Scanner startup error: 🔒 Sikkerhetskrav: Bruk HTTPS eller spør IT-støtte
+
+Bruk manuell inngang i stedet.
+[00:05:56.124] Browser INFO    [v0] Suggest switching to manual mode
+[00:06:10.434] Server  ERROR   Verify ticket error: ReferenceError: booking is not defined
+[00:06:28.940] Server  ERROR   Verify ticket error: ReferenceError: booking is not defined
+[00:08:20.824] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959250825}
+[00:08:24.974] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ensemble/smartine-i-glitterhavn color: rgb(120, 120, 120) color: inherit {"dp":"/ensemble/[slug]","o":"http://localhost:3000/ensemble/smartine-i-glitterhavn","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959254976}
+[00:09:59.382] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/bestill/f7726e69-1918-4985-862b-6fe97cbade1f color: rgb(120, 120, 120) color: inherit {"dp":"/bestill/[showId]","o":"http://localhost:3000/bestill/f7726e69-1918-4985-862b-6fe97cbade1f","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959349384}
+[00:10:07.307] Server  LOG     [v0] Reserve seats request {}
+[00:10:07.420] Server  LOG     [v0] Current seat states: [{...},{...},{...},{...},{...}]
+[00:10:07.421] Server  LOG     [v0] Unavailable seats check: {}
+[00:10:07.845] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/kasse/billett?show=f7726e69-1918-4985-862b-6fe97cbade1f color: rgb(120, 120, 120) color: inherit {"dp":"/kasse/billett","o":"http://localhost:3000/kasse/billett?show=f7726e69-1918-4985-862b-6fe97cbade1f","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959357847}
+[00:10:12.459] Server  LOG     [v0] ========== BOOKING CREATE START ==========
+[00:10:12.460] Server  LOG     [v0] Booking request: {}
+[00:10:12.569] Server  LOG     [v0] Booking for user: "c3788a64-52d1-419f-b20a-2b0b8b1ddafc"
+[00:10:12.670] Server  LOG     [v0] Show found: "f7726e69-1918-4985-862b-6fe97cbade1f"
+[00:10:12.771] Server  LOG     [v0] Seats fetched for booking: [{...},{...},{...},{...},{...}]
+[00:10:12.772] Server  LOG     [v0] Generated booking reference: "THTR-20251205-D362"
+[00:10:12.882] Server  LOG     [v0] Booking created: "1b9219a3-ca12-4762-a34d-511f9248657c" "Reference:" "THTR-20251205-D362" "User ID:" "c3788a64-52d1-419f-b20a-2b0b8b1ddafc"
+[00:10:13.253] Server  LOG     [v0] ========== STARTING EMAIL SEND ==========
+[00:10:13.253] Server  LOG     [v0] Calling sendTicketEmail function...
+[00:10:13.253] Server  LOG     [v0] ========== EMAIL SEND START ==========
+[00:10:13.253] Server  LOG     [v0] sendTicketEmail called with: {}
+[00:10:13.253] Server  LOG     [v0] Email configuration:
+[00:10:13.253] Server  LOG     [v0] - FROM_EMAIL: "erdnos.com@gmail.com"
+[00:10:13.253] Server  LOG     [v0] - FROM_NAME: "Muneken"
+[00:10:13.253] Server  LOG     [v0] - SMTP_SERVER: "smtp-relay.brevo.com"
+[00:10:13.254] Server  LOG     [v0] Generating QR code...
+[00:10:13.266] Server  LOG     [v0] QR code generated successfully
+[00:10:13.267] Server  LOG     [v0] Sending email via SMTP...
+[00:10:13.267] Server  LOG     [v0] - To: "sondre@northem.no"
+[00:10:13.267] Server  LOG     [v0] - From: "Muneken <erdnos.com@gmail.com>"
+[00:10:14.018] Server  LOG     [v0] Email sent successfully!
+[00:10:14.019] Server  LOG     [v0] Message ID: "<e2ea001c-5b7b-8174-612d-c055e55c237d@gmail.com>"
+[00:10:14.019] Server  LOG     [v0] Response: "250 2.0.0 OK: queued as <e2ea001c-5b7b-8174-612d-c055e55c237d@gmail.com>"
+[00:10:14.019] Server  LOG     [v0] ========== EMAIL SEND COMPLETE ==========
+[00:10:14.019] Server  LOG     [v0] sendTicketEmail returned: {}
+[00:10:14.117] Server  LOG     [v0] Email sent successfully!
+[00:10:14.117] Server  LOG     [v0] ========== BOOKING CREATE COMPLETE ==========
+[00:10:14.726] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/bekreftelse/1b9219a3-ca12-4762-a34d-511f9248657c color: rgb(120, 120, 120) color: inherit {"dp":"/bekreftelse/[bookingId]","o":"http://localhost:3000/bekreftelse/1b9219a3-ca12-4762-a34d-511f9248657c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959364725}
+[00:10:20.700] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/billetter color: rgb(120, 120, 120) color: inherit {"dp":"/billetter","o":"http://localhost:3000/billetter","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959370694}
+[00:10:24.397] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/bekreftelse/1b9219a3-ca12-4762-a34d-511f9248657c color: rgb(120, 120, 120) color: inherit {"dp":"/bekreftelse/[bookingId]","o":"http://localhost:3000/bekreftelse/1b9219a3-ca12-4762-a34d-511f9248657c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959374397}
+[00:10:29.266] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/billetter color: rgb(120, 120, 120) color: inherit {"dp":"/billetter","o":"http://localhost:3000/billetter","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959379259}
+[00:10:36.882] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959386885}
+[00:10:40.823] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ensemble/smartine-i-glitterhavn color: rgb(120, 120, 120) color: inherit {"dp":"/ensemble/[slug]","o":"http://localhost:3000/ensemble/smartine-i-glitterhavn","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959390826}
+[00:11:05.589] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/kasse?ensemble=2fe35844-4ab1-40b5-9f65-c40c9cab6697&team=yellow color: rgb(120, 120, 120) color: inherit {"dp":"/kasse","o":"http://localhost:3000/kasse?ensemble=2fe35844-4ab1-40b5-9f65-c40c9cab6697&team=yellow","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959415592}
+[00:11:31.498] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/min-side color: rgb(120, 120, 120) color: inherit {"dp":"/min-side","o":"http://localhost:3000/min-side","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959441501}
+[00:11:33.257] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/mine-opptak color: rgb(120, 120, 120) color: inherit {"dp":"/mine-opptak","o":"http://localhost:3000/mine-opptak","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959443261}
+[00:11:35.317] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/se/d0f08f93-2c4e-4a0c-aded-0cc3424d7be1 color: rgb(120, 120, 120) color: inherit {"dp":"/se/[recordingId]","o":"http://localhost:3000/se/d0f08f93-2c4e-4a0c-aded-0cc3424d7be1","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959445320}
+[00:13:00.742] Server  LOG      ✓ Compiled in 123ms
+[00:13:01.229] Server  ERROR    ⨯ ReferenceError: SecureVideoPlayer is not defined
+[00:13:01.483] Browser ERROR   uncaughtError: ReferenceError: SecureVideoPlayer is not defined
+[00:13:01.631] Server  ERROR    ⨯ ReferenceError: SecureVideoPlayer is not defined
+[00:13:01.738] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:02.487] Browser ERROR   uncaughtError: ReferenceError: SecureVideoPlayer is not defined
+[00:13:10.904] Server  LOG      ✓ Compiled in 23ms
+[00:13:43.498] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:43.651] Browser WARN    Image with src "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwbII6ktmlIbK_U6MeV2mMlIB0JA1RMc96A&s" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:13:43.651] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:13:43.651] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/mine-opptak","route":"/mine-opptak"}
+[00:13:43.651] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/mine-opptak color: rgb(120, 120, 120) color: inherit {"dp":"/mine-opptak","o":"http://localhost:3000/mine-opptak","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959573642}
+[00:14:24.064] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin color: rgb(120, 120, 120) color: inherit {"dp":"/admin","o":"http://localhost:3000/admin","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959614054}
+[00:15:12.356] Server  LOG      ✓ Compiled in 70ms
+[00:15:44.829] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin/rabattkoder color: rgb(120, 120, 120) color: inherit {"dp":"/admin/rabattkoder","o":"http://localhost:3000/admin/rabattkoder","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959694819}
+[00:15:46.304] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin/rabattkoder/ny color: rgb(120, 120, 120) color: inherit {"dp":"/admin/rabattkoder/ny","o":"http://localhost:3000/admin/rabattkoder/ny","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959696286}
+[00:16:03.740] Browser ERROR   [v0] Supabase error: new row for relation "discount_codes" violates check constraint "discount_codes_applicable_to_check"
+[00:16:03.740] Browser ERROR   [v0] Error: new row for relation "discount_codes" violates check constraint "discount_codes_applicable_to_check"
+[00:16:43.656] Server  LOG      ✓ Compiled in 47ms
+[00:16:49.351] Server  LOG      ✓ Compiled in 24ms
+[00:17:56.756] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin/rabattkoder color: rgb(120, 120, 120) color: inherit {"dp":"/admin/rabattkoder","o":"http://localhost:3000/admin/rabattkoder","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959826747}
+[00:17:59.845] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/admin/forestillinger color: rgb(120, 120, 120) color: inherit {"dp":"/admin/forestillinger","o":"http://localhost:3000/admin/forestillinger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959829836}
+[00:18:02.675] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959832665}
+[00:18:05.613] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/forestillinger color: rgb(120, 120, 120) color: inherit {"dp":"/forestillinger","o":"http://localhost:3000/forestillinger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959835603}
+[00:18:07.482] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/bestill/62c18f2b-8b4c-4f47-a184-df9a4328b19c color: rgb(120, 120, 120) color: inherit {"dp":"/bestill/[showId]","o":"http://localhost:3000/bestill/62c18f2b-8b4c-4f47-a184-df9a4328b19c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959837472}
+[00:18:12.668] Server  LOG     [v0] Reserve seats request {}
+[00:18:12.773] Server  LOG     [v0] Current seat states: [{...},{...}]
+[00:18:12.774] Server  LOG     [v0] Unavailable seats check: {}
+[00:18:13.191] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/kasse/billett?show=62c18f2b-8b4c-4f47-a184-df9a4328b19c color: rgb(120, 120, 120) color: inherit {"dp":"/kasse/billett","o":"http://localhost:3000/kasse/billett?show=62c18f2b-8b4c-4f47-a184-df9a4328b19c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959843182}
+[00:18:43.756] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/opptak color: rgb(120, 120, 120) color: inherit {"dp":"/opptak","o":"http://localhost:3000/opptak","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959873747}
+[00:18:45.318] Server  LOG      ✓ Compiled in 82ms
+[00:18:46.589] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ensemble/smartine-i-glitterhavn color: rgb(120, 120, 120) color: inherit {"dp":"/ensemble/[slug]","o":"http://localhost:3000/ensemble/smartine-i-glitterhavn","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959876580}
+[00:18:49.312] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/kasse?ensemble=2fe35844-4ab1-40b5-9f65-c40c9cab6697&team=yellow color: rgb(120, 120, 120) color: inherit {"dp":"/kasse","o":"http://localhost:3000/kasse?ensemble=2fe35844-4ab1-40b5-9f65-c40c9cab6697&team=yellow","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959879302}
+[00:18:53.862] Server  LOG      ✓ Compiled in 28ms
+[00:18:59.202] Server  LOG      ✓ Compiled in 22ms
+[00:19:03.802] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/forestillinger color: rgb(120, 120, 120) color: inherit {"dp":"/forestillinger","o":"http://localhost:3000/forestillinger","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959893792}
+[00:19:05.782] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/bestill/62c18f2b-8b4c-4f47-a184-df9a4328b19c color: rgb(120, 120, 120) color: inherit {"dp":"/bestill/[showId]","o":"http://localhost:3000/bestill/62c18f2b-8b4c-4f47-a184-df9a4328b19c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959895773}
+[00:19:07.820] Server  LOG      ✓ Compiled in 73ms
+[00:19:09.301] Server  LOG     [v0] Reserve seats request {}
+[00:19:09.406] Server  LOG     [v0] Current seat states: [{...},{...}]
+[00:19:09.407] Server  LOG     [v0] Unavailable seats check: {}
+[00:19:09.880] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/kasse/billett?show=62c18f2b-8b4c-4f47-a184-df9a4328b19c color: rgb(120, 120, 120) color: inherit {"dp":"/kasse/billett","o":"http://localhost:3000/kasse/billett?show=62c18f2b-8b4c-4f47-a184-df9a4328b19c","sdkn":"@vercel/analytics/next","sdkv":"1.6.1","sv":"0.1.3","ts":1764959899869}
+[00:19:13.406] Server  LOG      ✓ Compiled in 33ms
+[00:19:18.488] Server  LOG     [v0] ========== BOOKING CREATE START ==========
+[00:19:18.489] Server  LOG     [v0] Booking request: {}
+[00:19:18.516] Server  LOG      ✓ Compiled in 17ms
+[00:19:43.816] Server  LOG     [v0] ========== BOOKING CREATE START ==========
+[00:19:43.818] Server  LOG     [v0] Booking request: {}
+[00:19:49.492] Server  LOG     [v0] ========== BOOKING CREATE START ==========
+[00:19:49.492] Server  LOG     [v0] Booking request: {}
+[00:24:19.993] Server  LOG      ✓ Compiled in 154ms
+[00:24:29.275] Server  LOG      ✓ Compiled in 31ms
+[00:24:35.103] Server  LOG      ✓ Compiled in 21ms
+[00:24:43.836] Server  LOG      ✓ Compiled in 44ms
+[00:24:49.812] Server  LOG      ✓ Compiled in 23ms
+[00:24:57.812] Server  LOG      ✓ Compiled in 28ms

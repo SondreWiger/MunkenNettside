@@ -1,0 +1,10 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/seats/reserve/route.js")
+R.c("server/chunks/node_modules_next_4168a96f._.js")
+R.c("server/chunks/node_modules_@supabase_realtime-js_dist_module_306ac729._.js")
+R.c("server/chunks/node_modules_@supabase_storage-js_dist_module_473cf4b8._.js")
+R.c("server/chunks/node_modules_@supabase_auth-js_dist_module_d4605ced._.js")
+R.c("server/chunks/node_modules_b2383b72._.js")
+R.c("server/chunks/[root-of-the-server]__fe832166._.js")
+R.c("server/chunks/_next-internal_server_app_api_seats_reserve_route_actions_4e411fc4.js")
+R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/seats/reserve/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/seats/reserve/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

@@ -1,0 +1,3 @@
+{
+  "/api/bookings/create/route": "app/api/bookings/create/route.js"
+}

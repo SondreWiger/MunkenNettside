@@ -1,0 +1,3 @@
+{
+  "/api/seats/cleanup/route": "app/api/seats/cleanup/route.js"
+}
